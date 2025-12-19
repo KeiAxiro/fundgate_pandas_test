@@ -1,4 +1,6 @@
 data/
 __pycache__/
 *.pyc
-venv/
+venv/lib
+venv/lib64
+pyvenv.cfg
